@@ -1,0 +1,301 @@
+student_id,name,age,gender,grade_level,socio_economic_status,parental_education,attendance_rate,gpa,discipline_incidents,health_issues,extracurricular_activities,teacher_comments_x
+S001,Rufaro Moyo,14,Male,12,Low,High School,95.85,1.7,4,None,Drama,Making steady progress.
+S002,Vimbai Machaka,15,Male,10,High,None,96.77,1.4,2,Asthma,None,Excellent in class participation.
+S003,Tafadzwa Manzungu,17,Female,9,Medium,High School,99.83,2.5,5,Asthma,Chess,Making steady progress.
+S004,Nyasha Marufu,17,Female,10,Low,High School,78.7,1.4,1,Asthma,Chess,Excellent in class participation.
+S005,Tendai Munyuki,16,Male,9,Medium,Tertiary,93.53,1,1,Asthma,None,Needs to be more disciplined.
+S006,Kudzai Mutasa,14,Male,11,High,None,94.89,2,3,None,Chess,Needs to be more disciplined.
+S007,Rufaro Moyo,17,Female,12,High,Tertiary,98.63,3.7,3,None,Soccer,Struggling with the coursework.
+S008,Chido Dzvukamanja,16,Female,12,Low,None,78.62,1.2,0,None,Drama,Struggling with the coursework.
+S009,Kudzai Mutasa,17,Male,11,High,Primary School,83.78,1.1,2,None,Soccer,"Good progress, but needs improvement in homework."
+S010,Tendai Munyuki,17,Male,10,Medium,Tertiary,79.49,2.5,5,None,Chess,Making steady progress.
+S011,Tawanda Nyoni,16,Male,9,High,Primary School,83.03,1.4,2,None,Chess,Struggling with the coursework.
+S012,Tawanda Nyoni,14,Female,9,Medium,None,83.14,1.4,0,None,Drama,Making steady progress.
+S013,Chido Dzvukamanja,17,Female,11,Low,High School,79.07,3.3,0,Asthma,Chess,Struggling with the coursework.
+S014,Kudzai Mutasa,18,Female,12,Medium,High School,80.37,2.8,3,None,Soccer,"Good progress, but needs improvement in homework."
+S015,Tafadzwa Manzungu,18,Female,11,Medium,Tertiary,89.53,3.8,2,Asthma,Soccer,Struggling with the coursework.
+S016,Chido Dzvukamanja,17,Male,9,Low,Tertiary,84.77,3.2,2,None,None,"Good progress, but needs improvement in homework."
+S017,Farai Makoni,17,Female,9,High,Tertiary,79.56,1.5,5,Diabetes,Chess,Excellent in class participation.
+S018,Tafadzwa Manzungu,17,Male,11,Low,None,74.31,1.8,4,None,Drama,"Good progress, but needs improvement in homework."
+S019,Tawanda Nyoni,14,Male,12,High,Tertiary,81.26,3.5,3,Diabetes,Soccer,"Good progress, but needs improvement in homework."
+S020,Tatenda Chikore,17,Male,9,High,High School,71.06,2.4,4,None,Drama,"Good progress, but needs improvement in homework."
+S021,Farai Makoni,17,Female,11,Medium,None,97.17,3.4,3,Diabetes,Drama,Excellent in class participation.
+S022,Rufaro Moyo,15,Male,9,Low,None,97.66,3.5,2,Diabetes,Chess,Excellent in class participation.
+S023,Nyasha Marufu,14,Female,10,Medium,None,76.6,2.8,0,Asthma,Soccer,Needs to be more disciplined.
+S024,Chido Dzvukamanja,17,Female,9,Medium,Tertiary,83.39,2,2,None,None,Excellent in class participation.
+S025,Tawanda Nyoni,17,Male,9,Medium,High School,72.35,2.6,4,None,Soccer,"Good progress, but needs improvement in homework."
+S026,Tafadzwa Manzungu,16,Female,11,High,High School,86,2.8,0,None,Chess,"Good progress, but needs improvement in homework."
+S027,Farai Makoni,17,Male,11,Medium,Primary School,93.75,1.6,0,None,Drama,Excellent in class participation.
+S028,Rufaro Moyo,18,Male,11,Medium,None,85.37,2.3,2,None,Chess,Needs to be more disciplined.
+S029,Tatenda Chikore,15,Female,9,Low,None,74.94,3.8,1,None,Drama,Struggling with the coursework.
+S030,Tawanda Nyoni,15,Male,11,High,High School,97.13,3.6,0,None,Drama,Excellent in class participation.
+S031,Farai Makoni,18,Female,11,Medium,Primary School,88.37,1.1,0,None,Chess,Struggling with the coursework.
+S032,Tendai Munyuki,16,Female,10,Low,Primary School,71.84,3.2,0,None,None,Excellent in class participation.
+S033,Tatenda Chikore,17,Male,11,Medium,High School,74.07,3,1,None,Drama,Needs to be more disciplined.
+S034,Nyasha Marufu,16,Male,10,Medium,High School,77.9,2.2,0,None,None,Excellent in class participation.
+S035,Nyasha Marufu,16,Male,10,High,High School,94.25,3.4,0,Asthma,Chess,Needs to be more disciplined.
+S036,Chido Dzvukamanja,14,Male,12,High,None,73.18,1.1,2,Diabetes,Chess,Excellent in class participation.
+S037,Farai Makoni,16,Female,10,High,High School,78.52,2.6,4,None,Drama,Excellent in class participation.
+S038,Tawanda Nyoni,16,Male,10,Medium,Tertiary,95.34,3.7,2,Asthma,None,Struggling with the coursework.
+S039,Nyasha Marufu,16,Female,10,High,High School,83.63,3.2,1,None,Drama,Struggling with the coursework.
+S040,Tendai Munyuki,14,Female,9,High,None,90.53,1.5,3,Diabetes,Drama,Excellent in class participation.
+S041,Vimbai Machaka,14,Male,9,Low,None,84.71,3.8,5,None,Drama,Struggling with the coursework.
+S042,Chido Dzvukamanja,16,Male,9,Medium,Tertiary,84.97,1.6,3,Diabetes,Drama,"Good progress, but needs improvement in homework."
+S043,Nyasha Marufu,14,Female,9,Low,Tertiary,98.69,1.4,5,Diabetes,Chess,Excellent in class participation.
+S044,Vimbai Machaka,15,Female,9,Low,None,81.3,3.7,0,None,Chess,Making steady progress.
+S045,Chido Dzvukamanja,18,Female,9,Low,High School,70.12,3.1,3,None,Soccer,Making steady progress.
+S046,Tafadzwa Manzungu,16,Female,9,Medium,Primary School,95.2,3.1,3,None,Chess,Struggling with the coursework.
+S047,Tatenda Chikore,16,Male,11,High,High School,91.51,1.4,4,Diabetes,Soccer,Excellent in class participation.
+S048,Tafadzwa Manzungu,15,Male,12,High,Tertiary,92.91,1.9,5,None,None,Excellent in class participation.
+S049,Tatenda Chikore,16,Female,9,Low,Primary School,70.16,3.4,4,None,Soccer,Needs to be more disciplined.
+S050,Tafadzwa Manzungu,14,Female,10,Low,Primary School,80.68,1.4,0,None,Chess,Making steady progress.
+S051,Tawanda Nyoni,14,Female,9,Medium,High School,92.77,1.9,0,None,Drama,Struggling with the coursework.
+S052,Farai Makoni,15,Female,11,Medium,Tertiary,71.28,3.4,4,None,Drama,Making steady progress.
+S053,Nyasha Marufu,15,Female,12,High,Tertiary,72.23,2.7,5,None,Chess,"Good progress, but needs improvement in homework."
+S054,Tawanda Nyoni,18,Male,12,Medium,High School,85.65,2.7,0,None,None,Needs to be more disciplined.
+S055,Tatenda Chikore,17,Female,11,Low,None,97.68,2.5,2,None,Soccer,Struggling with the coursework.
+S056,Chido Dzvukamanja,17,Female,9,Medium,Tertiary,95.48,1.4,2,None,None,Struggling with the coursework.
+S057,Chido Dzvukamanja,15,Female,9,Medium,High School,85,1.7,5,None,Soccer,Making steady progress.
+S058,Vimbai Machaka,16,Male,9,Low,Primary School,95.02,3.6,3,None,None,Making steady progress.
+S059,Nyasha Marufu,16,Female,12,Low,High School,90.82,3.2,2,Diabetes,Chess,Needs to be more disciplined.
+S060,Vimbai Machaka,16,Male,11,High,Primary School,96.7,2.1,3,Asthma,Drama,Excellent in class participation.
+S061,Tatenda Chikore,15,Female,9,High,High School,85.58,1.4,5,Asthma,Drama,Excellent in class participation.
+S062,Tawanda Nyoni,16,Female,11,Low,Tertiary,75.74,3.9,4,None,Drama,Struggling with the coursework.
+S063,Nyasha Marufu,16,Female,9,Medium,None,99.37,2.4,2,None,Chess,Excellent in class participation.
+S064,Tendai Munyuki,14,Male,9,Medium,Primary School,89.86,1.7,1,None,None,"Good progress, but needs improvement in homework."
+S065,Kudzai Mutasa,15,Female,9,Low,Tertiary,78.51,3.2,2,Asthma,None,"Good progress, but needs improvement in homework."
+S066,Tendai Munyuki,15,Male,12,High,Tertiary,82.13,3.9,3,Diabetes,Chess,"Good progress, but needs improvement in homework."
+S067,Tatenda Chikore,15,Female,9,Medium,High School,85.93,2.9,1,None,Soccer,"Good progress, but needs improvement in homework."
+S068,Tafadzwa Manzungu,15,Male,10,Low,None,81.82,1.6,3,None,Chess,Excellent in class participation.
+S069,Kudzai Mutasa,14,Female,11,High,Primary School,92.1,1.4,0,None,Chess,Making steady progress.
+S070,Kudzai Mutasa,17,Female,11,Low,Primary School,97.36,2.4,0,None,Soccer,Struggling with the coursework.
+S071,Chido Dzvukamanja,14,Male,12,High,Primary School,75.55,3.3,3,None,None,Making steady progress.
+S072,Farai Makoni,15,Male,12,High,Tertiary,83.58,2.7,1,None,Soccer,Making steady progress.
+S073,Vimbai Machaka,16,Female,11,Low,Primary School,81.5,1.4,1,None,None,"Good progress, but needs improvement in homework."
+S074,Tendai Munyuki,15,Female,9,Medium,Primary School,83.33,3.5,5,Diabetes,None,Needs to be more disciplined.
+S075,Farai Makoni,15,Female,9,Low,None,91.29,2.2,4,None,Chess,Struggling with the coursework.
+S076,Kudzai Mutasa,15,Male,12,Medium,None,87.21,2.8,4,Asthma,Chess,Excellent in class participation.
+S077,Kudzai Mutasa,15,Female,11,High,Primary School,83.9,3.7,0,Asthma,Drama,Making steady progress.
+S078,Tawanda Nyoni,18,Male,11,Low,None,82.35,1.1,3,None,Chess,"Good progress, but needs improvement in homework."
+S079,Tafadzwa Manzungu,14,Male,11,Low,Primary School,79.92,2.9,2,Diabetes,Soccer,Struggling with the coursework.
+S080,Tatenda Chikore,15,Female,12,Low,High School,80.33,1.2,1,None,None,Struggling with the coursework.
+S081,Tawanda Nyoni,17,Female,12,Medium,Primary School,77.85,3.3,1,None,Soccer,Excellent in class participation.
+S082,Farai Makoni,15,Male,11,Medium,Primary School,72.17,2.9,3,Asthma,None,Needs to be more disciplined.
+S083,Farai Makoni,16,Male,10,High,High School,72.95,1.9,5,Asthma,Chess,Making steady progress.
+S084,Farai Makoni,15,Female,9,High,High School,80.96,3.1,2,None,Chess,Excellent in class participation.
+S085,Farai Makoni,15,Male,10,Medium,High School,86.23,3.8,3,None,Soccer,Struggling with the coursework.
+S086,Kudzai Mutasa,15,Male,11,High,None,91.8,1.8,2,None,Chess,Excellent in class participation.
+S087,Rufaro Moyo,15,Male,12,Low,Tertiary,91.87,2.2,3,None,Chess,Needs to be more disciplined.
+S088,Kudzai Mutasa,18,Male,10,High,None,88.15,2.8,0,None,Chess,Needs to be more disciplined.
+S089,Farai Makoni,14,Female,10,High,High School,79.86,2.1,0,None,None,"Good progress, but needs improvement in homework."
+S090,Tawanda Nyoni,14,Male,11,Low,Tertiary,73.29,3.8,5,Diabetes,Chess,Needs to be more disciplined.
+S091,Kudzai Mutasa,17,Female,10,Medium,None,74.52,2.4,0,None,Soccer,Excellent in class participation.
+S092,Nyasha Marufu,14,Male,10,High,None,84.17,3,3,Asthma,Chess,Making steady progress.
+S093,Farai Makoni,17,Male,10,Medium,High School,97.88,1.1,2,None,None,Making steady progress.
+S094,Tendai Munyuki,18,Female,10,High,High School,74.94,3.1,0,None,None,Struggling with the coursework.
+S095,Farai Makoni,14,Female,9,Medium,Primary School,95.58,2.6,3,Asthma,Soccer,"Good progress, but needs improvement in homework."
+S096,Tawanda Nyoni,15,Female,11,Medium,Tertiary,84.12,3.2,0,None,Drama,"Good progress, but needs improvement in homework."
+S097,Vimbai Machaka,15,Male,10,Medium,Tertiary,81.82,3.6,5,None,Soccer,Struggling with the coursework.
+S098,Farai Makoni,15,Female,9,Low,Tertiary,99.69,2.3,2,Asthma,Chess,Making steady progress.
+S099,Vimbai Machaka,14,Female,11,Medium,Tertiary,76.28,1.1,0,None,Chess,Needs to be more disciplined.
+S100,Kudzai Mutasa,16,Female,12,Low,None,90.87,2.1,5,None,None,Needs to be more disciplined.
+S101,Chido Dzvukamanja,18,Female,10,Medium,Tertiary,85.11,2.9,5,None,Chess,Needs to be more disciplined.
+S102,Rufaro Moyo,15,Female,10,Low,None,77.04,1.3,1,None,Drama,"Good progress, but needs improvement in homework."
+S103,Kudzai Mutasa,14,Male,11,Medium,High School,91.51,1.9,3,None,None,"Good progress, but needs improvement in homework."
+S104,Rufaro Moyo,14,Male,9,Low,Primary School,87.81,3.3,4,None,None,Needs to be more disciplined.
+S105,Chido Dzvukamanja,14,Male,9,Low,High School,86.88,2.5,4,None,None,Needs to be more disciplined.
+S106,Kudzai Mutasa,16,Female,12,High,None,80.07,2.4,3,Asthma,None,Making steady progress.
+S107,Rufaro Moyo,16,Female,9,Medium,Tertiary,86.4,1.9,0,None,Soccer,Excellent in class participation.
+S108,Tawanda Nyoni,17,Male,12,Medium,High School,76.81,2.9,4,None,Chess,Needs to be more disciplined.
+S109,Tatenda Chikore,18,Female,12,Medium,None,82.05,2.3,0,None,None,Struggling with the coursework.
+S110,Nyasha Marufu,17,Male,11,Low,High School,87.1,1.2,3,None,Chess,"Good progress, but needs improvement in homework."
+S111,Kudzai Mutasa,17,Male,9,Low,Tertiary,88.94,1.4,2,None,Soccer,"Good progress, but needs improvement in homework."
+S112,Kudzai Mutasa,14,Female,11,Low,High School,98.48,2.4,5,None,None,Making steady progress.
+S113,Rufaro Moyo,16,Male,12,Medium,High School,74.22,2.4,3,None,None,Excellent in class participation.
+S114,Kudzai Mutasa,14,Female,9,Medium,Primary School,88.68,1.5,0,None,Soccer,Needs to be more disciplined.
+S115,Tatenda Chikore,15,Male,10,Low,None,81.94,3.9,0,None,Chess,Struggling with the coursework.
+S116,Kudzai Mutasa,16,Male,11,Medium,High School,70.71,3.9,2,None,None,Excellent in class participation.
+S117,Tafadzwa Manzungu,17,Female,10,Medium,Tertiary,95.5,1.1,2,Asthma,Soccer,"Good progress, but needs improvement in homework."
+S118,Tawanda Nyoni,16,Male,11,Low,High School,86.32,3.7,5,None,Drama,Excellent in class participation.
+S119,Rufaro Moyo,17,Male,9,Low,None,79.42,3.7,2,None,Chess,Struggling with the coursework.
+S120,Tendai Munyuki,15,Female,9,Medium,Primary School,95.63,3.8,0,None,Drama,Making steady progress.
+S121,Nyasha Marufu,17,Female,10,Low,Primary School,99.58,3.2,4,Asthma,Chess,Excellent in class participation.
+S122,Chido Dzvukamanja,17,Male,11,Medium,Tertiary,76.13,2.8,0,Asthma,Drama,Struggling with the coursework.
+S123,Vimbai Machaka,15,Male,12,Medium,Tertiary,91.47,2.5,2,None,Soccer,Excellent in class participation.
+S124,Vimbai Machaka,17,Male,12,High,None,80.59,3.6,1,Diabetes,Drama,Struggling with the coursework.
+S125,Chido Dzvukamanja,17,Male,12,Low,Primary School,90.91,2.1,1,None,Chess,Struggling with the coursework.
+S126,Rufaro Moyo,18,Female,9,High,Primary School,99.1,3.9,4,Diabetes,None,Excellent in class participation.
+S127,Tawanda Nyoni,14,Female,12,High,None,77.69,3.5,2,None,Drama,Excellent in class participation.
+S128,Tendai Munyuki,17,Female,10,High,Primary School,99.05,2.6,2,None,Drama,Excellent in class participation.
+S129,Rufaro Moyo,17,Female,11,High,Primary School,91.76,1.4,1,None,Drama,Excellent in class participation.
+S130,Tatenda Chikore,16,Female,11,Low,Primary School,79.35,3.9,4,None,Drama,Struggling with the coursework.
+S131,Vimbai Machaka,18,Female,9,High,Primary School,74.06,2.6,2,Asthma,None,Needs to be more disciplined.
+S132,Tafadzwa Manzungu,16,Male,9,High,High School,92.95,2.2,4,Asthma,Soccer,Excellent in class participation.
+S133,Vimbai Machaka,15,Male,12,High,Primary School,97.28,1.6,2,None,Soccer,Making steady progress.
+S134,Vimbai Machaka,16,Male,9,Medium,Primary School,70.61,3.8,1,Diabetes,Chess,Making steady progress.
+S135,Chido Dzvukamanja,15,Female,10,Low,High School,97.35,2.7,2,Diabetes,Drama,Excellent in class participation.
+S136,Tafadzwa Manzungu,15,Female,9,High,Primary School,70.95,3.6,5,None,None,Excellent in class participation.
+S137,Kudzai Mutasa,14,Male,12,Low,None,89.28,1.9,1,None,Chess,Struggling with the coursework.
+S138,Tendai Munyuki,18,Female,10,Medium,High School,78.16,3.4,3,Asthma,Soccer,Excellent in class participation.
+S139,Rufaro Moyo,16,Female,11,High,None,99.9,1.1,1,None,Chess,Making steady progress.
+S140,Farai Makoni,15,Female,9,Medium,None,81.63,2.6,0,None,None,Struggling with the coursework.
+S141,Nyasha Marufu,18,Female,10,Medium,None,82.88,3.9,5,Diabetes,Chess,Making steady progress.
+S142,Tawanda Nyoni,18,Male,9,High,Tertiary,84.77,2.6,1,Diabetes,Soccer,Struggling with the coursework.
+S143,Tendai Munyuki,18,Female,9,Medium,High School,95.72,3.9,2,Asthma,Soccer,"Good progress, but needs improvement in homework."
+S144,Vimbai Machaka,17,Male,12,High,Tertiary,78.56,4,5,Diabetes,Drama,Making steady progress.
+S145,Nyasha Marufu,18,Male,11,Medium,None,75.88,2.9,0,Diabetes,Chess,Struggling with the coursework.
+S146,Nyasha Marufu,18,Female,12,High,Primary School,97.13,2.3,5,Diabetes,Soccer,Struggling with the coursework.
+S147,Chido Dzvukamanja,17,Male,9,Medium,Primary School,95.95,1.3,3,None,Soccer,"Good progress, but needs improvement in homework."
+S148,Chido Dzvukamanja,15,Male,9,Medium,Tertiary,87.44,1.7,5,None,Chess,Needs to be more disciplined.
+S149,Kudzai Mutasa,17,Male,10,High,None,78.58,2.3,5,None,None,Making steady progress.
+S150,Tawanda Nyoni,16,Male,11,Medium,High School,99.35,1.8,1,None,Chess,Struggling with the coursework.
+S151,Tendai Munyuki,17,Male,10,Low,Tertiary,89.66,3.9,1,None,Soccer,Making steady progress.
+S152,Vimbai Machaka,17,Male,12,Low,Primary School,97.02,2.5,1,None,Drama,"Good progress, but needs improvement in homework."
+S153,Rufaro Moyo,18,Female,11,High,Tertiary,92.49,1.1,0,Diabetes,None,"Good progress, but needs improvement in homework."
+S154,Chido Dzvukamanja,17,Male,11,High,None,96.27,2.8,4,Diabetes,Soccer,Making steady progress.
+S155,Rufaro Moyo,17,Female,12,Medium,None,99.61,1,3,None,Chess,Making steady progress.
+S156,Tatenda Chikore,18,Female,10,Low,Primary School,92.4,1.1,3,None,Soccer,"Good progress, but needs improvement in homework."
+S157,Tafadzwa Manzungu,17,Female,12,Medium,Tertiary,96.13,1.4,2,Asthma,Soccer,Excellent in class participation.
+S158,Tawanda Nyoni,14,Male,9,Medium,Tertiary,89.35,2.1,5,Diabetes,Soccer,"Good progress, but needs improvement in homework."
+S159,Rufaro Moyo,18,Female,12,Medium,Tertiary,84.87,3.9,0,Diabetes,Chess,Struggling with the coursework.
+S160,Tendai Munyuki,18,Female,10,High,Tertiary,90.66,1.9,4,None,Soccer,Excellent in class participation.
+S161,Chido Dzvukamanja,14,Female,9,Low,Tertiary,75.41,3.3,2,None,None,"Good progress, but needs improvement in homework."
+S162,Tafadzwa Manzungu,18,Female,9,High,None,96.14,2.8,4,None,Drama,Struggling with the coursework.
+S163,Rufaro Moyo,17,Male,11,Medium,Tertiary,85.93,1.3,0,None,Drama,"Good progress, but needs improvement in homework."
+S164,Tatenda Chikore,15,Male,11,Low,None,72.93,2.6,0,None,Chess,Needs to be more disciplined.
+S165,Tatenda Chikore,15,Female,9,High,Primary School,73.81,3.1,4,None,None,Making steady progress.
+S166,Nyasha Marufu,17,Female,10,Low,Tertiary,94.14,1.8,3,None,Soccer,Needs to be more disciplined.
+S167,Vimbai Machaka,14,Female,9,Medium,Tertiary,81.35,3.4,4,None,Chess,Needs to be more disciplined.
+S168,Tendai Munyuki,16,Female,9,High,Tertiary,75.47,1.1,5,None,Drama,Needs to be more disciplined.
+S169,Rufaro Moyo,17,Male,9,Low,None,75.86,2.1,2,None,Chess,Struggling with the coursework.
+S170,Tawanda Nyoni,15,Male,9,High,Primary School,72,2.4,1,Asthma,Drama,Needs to be more disciplined.
+S171,Rufaro Moyo,15,Male,11,Low,High School,89.2,1.2,1,Asthma,None,Needs to be more disciplined.
+S172,Rufaro Moyo,16,Male,10,Medium,Primary School,83.33,3.2,4,None,Soccer,Struggling with the coursework.
+S173,Chido Dzvukamanja,16,Female,11,Low,Tertiary,86.39,3.1,4,Diabetes,Drama,Needs to be more disciplined.
+S174,Chido Dzvukamanja,17,Male,10,High,Tertiary,74.94,1.8,0,None,Soccer,Needs to be more disciplined.
+S175,Kudzai Mutasa,18,Female,11,Low,Primary School,91.58,2.9,0,Asthma,None,Making steady progress.
+S176,Tawanda Nyoni,18,Female,9,Medium,Primary School,70.2,2,4,None,Drama,Struggling with the coursework.
+S177,Tawanda Nyoni,18,Female,10,Medium,High School,92.34,2.2,5,Asthma,Drama,"Good progress, but needs improvement in homework."
+S178,Rufaro Moyo,15,Male,10,High,None,99.7,3.2,3,None,Soccer,"Good progress, but needs improvement in homework."
+S179,Kudzai Mutasa,14,Female,10,Low,High School,91.97,2.3,3,Asthma,Chess,Needs to be more disciplined.
+S180,Tatenda Chikore,15,Female,9,High,Primary School,86.06,1.8,5,Asthma,None,Struggling with the coursework.
+S181,Chido Dzvukamanja,14,Female,11,High,High School,97.3,2.4,3,None,Drama,Excellent in class participation.
+S182,Vimbai Machaka,15,Male,9,Medium,None,88.07,3.4,4,Asthma,Chess,"Good progress, but needs improvement in homework."
+S183,Tawanda Nyoni,18,Male,9,Low,None,78.14,1,2,Diabetes,Chess,Making steady progress.
+S184,Vimbai Machaka,14,Female,12,High,Primary School,76,3.6,1,Asthma,Chess,Excellent in class participation.
+S185,Vimbai Machaka,16,Female,11,High,High School,79.43,2.1,1,Diabetes,Chess,Making steady progress.
+S186,Tafadzwa Manzungu,16,Female,9,High,High School,92.38,3.4,0,None,Chess,Struggling with the coursework.
+S187,Tendai Munyuki,18,Female,9,High,Primary School,91.85,3.7,2,Asthma,None,Excellent in class participation.
+S188,Vimbai Machaka,15,Male,10,Medium,Primary School,72.72,3.6,4,Asthma,Soccer,"Good progress, but needs improvement in homework."
+S189,Farai Makoni,17,Female,10,High,None,80.54,1.4,3,None,Chess,Struggling with the coursework.
+S190,Nyasha Marufu,15,Female,9,Low,Primary School,82.06,3.6,5,None,Drama,Making steady progress.
+S191,Nyasha Marufu,17,Male,10,High,High School,89.45,1.9,3,None,Chess,Needs to be more disciplined.
+S192,Tatenda Chikore,15,Female,11,Low,High School,71.86,3.5,3,Diabetes,Chess,"Good progress, but needs improvement in homework."
+S193,Vimbai Machaka,15,Male,9,Low,Primary School,84.03,1.8,1,None,Chess,"Good progress, but needs improvement in homework."
+S194,Tatenda Chikore,18,Female,12,Medium,Primary School,95.83,2,2,None,None,Making steady progress.
+S195,Kudzai Mutasa,14,Female,9,High,Primary School,78.24,3.5,3,None,Soccer,Struggling with the coursework.
+S196,Chido Dzvukamanja,14,Female,11,High,Tertiary,91.91,2,5,None,Drama,Excellent in class participation.
+S197,Tatenda Chikore,14,Female,11,High,High School,82.8,1.9,5,None,Chess,Making steady progress.
+S198,Tafadzwa Manzungu,17,Male,11,Medium,Tertiary,70.41,1.2,0,Diabetes,Soccer,Making steady progress.
+S199,Vimbai Machaka,14,Female,12,Medium,None,71.04,1,5,None,Soccer,Needs to be more disciplined.
+S200,Tatenda Chikore,16,Female,12,Medium,None,87.16,3.7,0,Asthma,Soccer,Making steady progress.
+S201,Vimbai Machaka,17,Female,9,Medium,Primary School,70.09,2.6,2,None,None,Struggling with the coursework.
+S202,Nyasha Marufu,16,Male,11,Medium,High School,92.03,1.6,1,None,Drama,Excellent in class participation.
+S203,Tatenda Chikore,17,Male,9,Low,Tertiary,75.8,3.3,4,Asthma,Chess,Struggling with the coursework.
+S204,Farai Makoni,18,Female,9,Low,None,78,1.1,5,Asthma,None,Making steady progress.
+S205,Kudzai Mutasa,17,Male,9,High,Primary School,84.63,2.1,4,None,Chess,Needs to be more disciplined.
+S206,Tafadzwa Manzungu,18,Male,10,Low,High School,93.55,3.7,0,None,Drama,Needs to be more disciplined.
+S207,Chido Dzvukamanja,14,Female,10,Low,Tertiary,89.31,3.2,5,Diabetes,Soccer,Excellent in class participation.
+S208,Rufaro Moyo,17,Female,11,High,None,86.73,3.6,4,Diabetes,Soccer,Making steady progress.
+S209,Nyasha Marufu,15,Male,10,Medium,Tertiary,81.94,3.6,4,None,Soccer,Struggling with the coursework.
+S210,Chido Dzvukamanja,18,Male,11,Medium,None,79.67,2,0,Asthma,Chess,Struggling with the coursework.
+S211,Tawanda Nyoni,18,Male,12,High,High School,97.27,2.3,4,None,Soccer,Needs to be more disciplined.
+S212,Farai Makoni,17,Male,12,Low,Primary School,92.98,2,3,None,Chess,Struggling with the coursework.
+S213,Tafadzwa Manzungu,16,Male,11,Low,Tertiary,77.14,3.8,4,None,Drama,Excellent in class participation.
+S214,Tatenda Chikore,18,Male,9,Medium,Primary School,85.08,3.1,5,None,Soccer,"Good progress, but needs improvement in homework."
+S215,Tendai Munyuki,16,Female,10,Low,None,95.2,3.4,2,None,Drama,Needs to be more disciplined.
+S216,Tawanda Nyoni,14,Female,12,High,None,75.77,2.5,1,Asthma,Drama,Making steady progress.
+S217,Tafadzwa Manzungu,15,Male,11,Low,None,75.67,2.6,5,Asthma,Soccer,Excellent in class participation.
+S218,Tatenda Chikore,15,Male,10,Medium,High School,92.21,2.3,5,Asthma,Drama,"Good progress, but needs improvement in homework."
+S219,Kudzai Mutasa,17,Female,11,High,High School,73.31,3,0,Asthma,Drama,Excellent in class participation.
+S220,Tendai Munyuki,18,Male,10,High,High School,96.76,2.6,3,None,Soccer,Struggling with the coursework.
+S221,Rufaro Moyo,16,Male,11,Low,Primary School,99.83,1.4,4,None,None,Needs to be more disciplined.
+S222,Tawanda Nyoni,16,Male,12,High,High School,70.27,3.6,3,None,Soccer,Excellent in class participation.
+S223,Rufaro Moyo,16,Female,11,High,Tertiary,73.43,2.7,2,Diabetes,None,Excellent in class participation.
+S224,Kudzai Mutasa,14,Male,10,Low,High School,84.14,1.1,0,Asthma,None,Excellent in class participation.
+S225,Rufaro Moyo,15,Male,11,Low,Tertiary,85.38,1.3,5,Asthma,None,"Good progress, but needs improvement in homework."
+S226,Rufaro Moyo,17,Male,11,Medium,High School,98.25,3.8,5,Diabetes,None,Needs to be more disciplined.
+S227,Kudzai Mutasa,14,Female,10,High,None,72.66,3.1,0,Diabetes,Soccer,Excellent in class participation.
+S228,Farai Makoni,15,Male,9,Medium,None,78.35,1.7,1,None,None,Needs to be more disciplined.
+S229,Vimbai Machaka,17,Male,11,Low,None,99.9,1.1,1,Diabetes,Soccer,Making steady progress.
+S230,Tafadzwa Manzungu,15,Male,11,Medium,None,95.48,2,0,Asthma,Chess,Making steady progress.
+S231,Tatenda Chikore,15,Male,10,High,None,76.01,1.8,5,None,None,Making steady progress.
+S232,Tawanda Nyoni,16,Female,12,High,None,91.63,3.5,0,None,None,Excellent in class participation.
+S233,Tatenda Chikore,17,Male,12,High,None,94.05,1.1,2,None,Drama,Struggling with the coursework.
+S234,Tawanda Nyoni,17,Male,12,High,Tertiary,86.29,3,4,Diabetes,Soccer,Making steady progress.
+S235,Chido Dzvukamanja,16,Male,12,Low,Tertiary,88.96,1.4,2,None,None,Struggling with the coursework.
+S236,Farai Makoni,18,Female,11,Medium,Primary School,74.98,3.6,2,None,None,Making steady progress.
+S237,Tatenda Chikore,14,Male,10,Low,High School,96.64,1.5,3,Asthma,Soccer,"Good progress, but needs improvement in homework."
+S238,Tawanda Nyoni,16,Female,10,Low,Primary School,90.98,3.1,2,None,Soccer,Struggling with the coursework.
+S239,Tatenda Chikore,18,Female,12,Medium,Tertiary,89.28,1.8,4,None,Soccer,Excellent in class participation.
+S240,Kudzai Mutasa,18,Female,9,Low,Primary School,72.02,3.2,2,None,Chess,Needs to be more disciplined.
+S241,Tatenda Chikore,17,Male,9,Low,Tertiary,80.26,2.9,4,None,Drama,Needs to be more disciplined.
+S242,Kudzai Mutasa,14,Male,10,Low,Tertiary,83.03,3,0,None,None,Needs to be more disciplined.
+S243,Farai Makoni,14,Male,12,High,High School,90.77,1.4,4,Diabetes,Chess,Struggling with the coursework.
+S244,Nyasha Marufu,18,Female,12,High,None,72.87,2.3,1,None,None,Struggling with the coursework.
+S245,Kudzai Mutasa,16,Male,10,Low,None,74.76,1.9,2,None,Soccer,"Good progress, but needs improvement in homework."
+S246,Tafadzwa Manzungu,17,Female,11,Medium,None,96.29,3.4,5,None,Chess,Struggling with the coursework.
+S247,Nyasha Marufu,17,Male,10,High,Primary School,74.66,3.7,1,None,Drama,Making steady progress.
+S248,Kudzai Mutasa,15,Female,11,High,None,79.89,1.3,0,Diabetes,Soccer,Excellent in class participation.
+S249,Rufaro Moyo,15,Female,11,Low,Primary School,84.39,2.2,4,Asthma,Soccer,Making steady progress.
+S250,Tatenda Chikore,14,Male,12,Low,Tertiary,78.13,2,1,Asthma,Chess,"Good progress, but needs improvement in homework."
+S251,Rufaro Moyo,15,Male,12,Medium,None,82.18,3.8,0,None,Drama,Struggling with the coursework.
+S252,Chido Dzvukamanja,15,Female,11,Low,None,94.25,3.9,5,Asthma,Soccer,Needs to be more disciplined.
+S253,Rufaro Moyo,17,Male,11,High,None,87.61,3.8,2,None,Chess,Making steady progress.
+S254,Farai Makoni,18,Female,11,Low,Tertiary,72.7,2.9,4,Asthma,Chess,Struggling with the coursework.
+S255,Kudzai Mutasa,15,Male,9,Low,High School,90.98,2.3,2,Asthma,None,Excellent in class participation.
+S256,Tawanda Nyoni,16,Female,12,Medium,None,86.12,2.5,2,None,None,Excellent in class participation.
+S257,Farai Makoni,18,Female,11,High,Primary School,72.22,2.2,5,None,Soccer,Needs to be more disciplined.
+S258,Vimbai Machaka,16,Male,11,High,Primary School,84.55,1.7,4,None,Drama,Excellent in class participation.
+S259,Kudzai Mutasa,14,Male,12,High,None,83.84,3.7,5,None,Drama,Needs to be more disciplined.
+S260,Nyasha Marufu,17,Female,11,Low,Primary School,80.08,2,2,None,None,"Good progress, but needs improvement in homework."
+S261,Vimbai Machaka,15,Male,11,High,High School,76.51,2.2,2,Diabetes,Soccer,Needs to be more disciplined.
+S262,Farai Makoni,17,Male,10,High,None,73.33,1.6,3,None,Soccer,Struggling with the coursework.
+S263,Nyasha Marufu,15,Female,12,Medium,None,87.27,1.5,2,Asthma,Chess,Needs to be more disciplined.
+S264,Chido Dzvukamanja,17,Male,9,High,High School,92.99,2.4,0,None,Chess,Struggling with the coursework.
+S265,Tafadzwa Manzungu,14,Male,10,Low,High School,92.2,2.5,4,None,Drama,Excellent in class participation.
+S266,Tawanda Nyoni,17,Male,11,Low,None,82.24,2.2,2,Asthma,Drama,Excellent in class participation.
+S267,Vimbai Machaka,15,Female,9,High,Primary School,80.39,2.2,3,None,Soccer,"Good progress, but needs improvement in homework."
+S268,Tawanda Nyoni,17,Female,11,Medium,None,95,3.4,2,Asthma,Drama,Excellent in class participation.
+S269,Tafadzwa Manzungu,16,Female,9,Medium,Tertiary,82.51,3.4,1,Asthma,Chess,Excellent in class participation.
+S270,Chido Dzvukamanja,14,Female,10,Medium,High School,98.04,2.1,3,None,Drama,Making steady progress.
+S271,Chido Dzvukamanja,17,Male,11,Low,Tertiary,77.66,3,3,None,Drama,Needs to be more disciplined.
+S272,Vimbai Machaka,16,Female,12,High,None,74.27,2.8,1,Diabetes,Soccer,"Good progress, but needs improvement in homework."
+S273,Tendai Munyuki,15,Female,10,Low,High School,81.06,1.8,4,Asthma,Drama,Excellent in class participation.
+S274,Rufaro Moyo,14,Male,12,Medium,High School,77.66,2.4,3,Asthma,Drama,Needs to be more disciplined.
+S275,Farai Makoni,18,Female,10,Low,Primary School,74.66,2.8,5,None,Chess,"Good progress, but needs improvement in homework."
+S276,Tendai Munyuki,16,Female,12,High,Tertiary,90.29,3.1,4,None,Soccer,Needs to be more disciplined.
+S277,Rufaro Moyo,15,Male,10,Low,Primary School,82.15,2.4,5,None,None,Needs to be more disciplined.
+S278,Kudzai Mutasa,14,Female,11,Medium,High School,92.26,2.5,5,None,None,Needs to be more disciplined.
+S279,Vimbai Machaka,15,Female,12,High,None,91.48,2.9,2,None,None,Needs to be more disciplined.
+S280,Vimbai Machaka,15,Female,11,High,Tertiary,84.17,3.7,0,None,Soccer,"Good progress, but needs improvement in homework."
+S281,Tawanda Nyoni,18,Female,9,Low,None,71.84,2.3,1,Asthma,Chess,"Good progress, but needs improvement in homework."
+S282,Chido Dzvukamanja,18,Female,10,Low,None,92.57,3.9,4,Diabetes,Drama,Making steady progress.
+S283,Rufaro Moyo,16,Female,9,Medium,None,92,3,1,None,Chess,Making steady progress.
+S284,Vimbai Machaka,18,Male,9,High,High School,73.11,2.9,4,None,None,Needs to be more disciplined.
+S285,Chido Dzvukamanja,15,Female,9,Medium,Tertiary,79.74,2.4,0,None,Soccer,Excellent in class participation.
+S286,Vimbai Machaka,14,Female,12,High,Tertiary,74.78,2.3,4,Diabetes,Soccer,Struggling with the coursework.
+S287,Chido Dzvukamanja,15,Female,11,High,Primary School,94.8,3.1,2,None,Chess,Excellent in class participation.
+S288,Tatenda Chikore,14,Female,11,High,Primary School,80.21,1.4,4,Asthma,None,Making steady progress.
+S289,Kudzai Mutasa,16,Female,11,High,Primary School,89.9,3.7,0,None,Drama,Struggling with the coursework.
+S290,Vimbai Machaka,15,Female,12,Medium,Primary School,78.31,3.2,1,Diabetes,Chess,Struggling with the coursework.
+S291,Tafadzwa Manzungu,17,Female,11,Low,Primary School,99.27,3.1,5,Asthma,Chess,Making steady progress.
+S292,Tatenda Chikore,15,Male,12,Low,Tertiary,91.86,3.6,2,Diabetes,None,Excellent in class participation.
+S293,Tawanda Nyoni,17,Female,9,Medium,High School,80.52,3.7,2,None,Drama,Needs to be more disciplined.
+S294,Chido Dzvukamanja,16,Male,12,High,None,75.9,3.4,4,None,None,Making steady progress.
+S295,Kudzai Mutasa,18,Female,9,High,High School,99.01,3.8,5,None,Soccer,Excellent in class participation.
+S296,Nyasha Marufu,16,Female,10,Low,High School,76.92,2.4,4,None,Chess,Making steady progress.
+S297,Vimbai Machaka,15,Male,9,Low,Primary School,74.24,2.1,1,None,Drama,Making steady progress.
+S298,Tawanda Nyoni,15,Female,11,Low,None,75.59,2.7,1,None,Chess,Needs to be more disciplined.
+S299,Kudzai Mutasa,18,Male,9,High,Tertiary,84.63,1.9,0,Diabetes,None,Excellent in class participation.
+S300,Chido Dzvukamanja,18,Female,10,Low,None,80.88,3.8,2,None,Drama,Needs to be more disciplined.

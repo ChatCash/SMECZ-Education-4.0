@@ -1,0 +1,301 @@
+student_id,subject,term,grade,teacher_comments
+S001,Geography,2023 Term 1,B,Making steady progress.
+S002,Agriculture,2023 Term 1,D,Excellent in class participation.
+S003,Agriculture,2023 Term 1,B,Making steady progress.
+S004,Commerce,2023 Term 1,C,Excellent in class participation.
+S005,Shona,2023 Term 1,D,Needs to be more disciplined.
+S006,Mathematics,2023 Term 1,D,Needs to be more disciplined.
+S007,Shona,2023 Term 1,B,Struggling with the coursework.
+S008,Science,2023 Term 1,B,Struggling with the coursework.
+S009,Geography,2023 Term 1,C,"Good progress, but needs improvement in homework."
+S010,Commerce,2023 Term 1,E,Making steady progress.
+S011,Commerce,2023 Term 1,C,Struggling with the coursework.
+S012,Geography,2023 Term 1,A,Making steady progress.
+S013,Geography,2023 Term 1,E,Struggling with the coursework.
+S014,Science,2023 Term 1,C,"Good progress, but needs improvement in homework."
+S015,Geography,2023 Term 1,A,Struggling with the coursework.
+S016,English,2023 Term 1,C,"Good progress, but needs improvement in homework."
+S017,History,2023 Term 1,B,Excellent in class participation.
+S018,Shona,2023 Term 1,E,"Good progress, but needs improvement in homework."
+S019,English,2023 Term 1,E,"Good progress, but needs improvement in homework."
+S020,English,2023 Term 1,B,"Good progress, but needs improvement in homework."
+S021,Shona,2023 Term 1,D,Excellent in class participation.
+S022,Shona,2023 Term 1,E,Excellent in class participation.
+S023,Commerce,2023 Term 1,D,Needs to be more disciplined.
+S024,Commerce,2023 Term 1,E,Excellent in class participation.
+S025,Shona,2023 Term 1,E,"Good progress, but needs improvement in homework."
+S026,Shona,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S027,Geography,2023 Term 1,A,Excellent in class participation.
+S028,Science,2023 Term 1,B,Needs to be more disciplined.
+S029,Geography,2023 Term 1,D,Struggling with the coursework.
+S030,Shona,2023 Term 1,C,Excellent in class participation.
+S031,English,2023 Term 1,B,Struggling with the coursework.
+S032,Geography,2023 Term 1,E,Excellent in class participation.
+S033,Mathematics,2023 Term 1,C,Needs to be more disciplined.
+S034,History,2023 Term 1,A,Excellent in class participation.
+S035,Shona,2023 Term 1,A,Needs to be more disciplined.
+S036,Geography,2023 Term 1,C,Excellent in class participation.
+S037,Shona,2023 Term 1,D,Excellent in class participation.
+S038,Science,2023 Term 1,D,Struggling with the coursework.
+S039,Science,2023 Term 1,A,Struggling with the coursework.
+S040,English,2023 Term 1,C,Excellent in class participation.
+S041,Science,2023 Term 1,C,Struggling with the coursework.
+S042,Agriculture,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S043,Geography,2023 Term 1,E,Excellent in class participation.
+S044,Commerce,2023 Term 1,D,Making steady progress.
+S045,Shona,2023 Term 1,E,Making steady progress.
+S046,Agriculture,2023 Term 1,A,Struggling with the coursework.
+S047,Geography,2023 Term 1,D,Excellent in class participation.
+S048,Science,2023 Term 1,E,Excellent in class participation.
+S049,Science,2023 Term 1,B,Needs to be more disciplined.
+S050,Mathematics,2023 Term 1,E,Making steady progress.
+S051,Shona,2023 Term 1,E,Struggling with the coursework.
+S052,Mathematics,2023 Term 1,B,Making steady progress.
+S053,English,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S054,Geography,2023 Term 1,B,Needs to be more disciplined.
+S055,Agriculture,2023 Term 1,D,Struggling with the coursework.
+S056,Agriculture,2023 Term 1,E,Struggling with the coursework.
+S057,English,2023 Term 1,A,Making steady progress.
+S058,Mathematics,2023 Term 1,C,Making steady progress.
+S059,Science,2023 Term 1,E,Needs to be more disciplined.
+S060,Agriculture,2023 Term 1,D,Excellent in class participation.
+S061,Mathematics,2023 Term 1,B,Excellent in class participation.
+S062,Commerce,2023 Term 1,C,Struggling with the coursework.
+S063,Science,2023 Term 1,C,Excellent in class participation.
+S064,History,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S065,Agriculture,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S066,Commerce,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S067,Shona,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S068,History,2023 Term 1,A,Excellent in class participation.
+S069,History,2023 Term 1,A,Making steady progress.
+S070,Commerce,2023 Term 1,B,Struggling with the coursework.
+S071,Agriculture,2023 Term 1,D,Making steady progress.
+S072,Science,2023 Term 1,A,Making steady progress.
+S073,Science,2023 Term 1,E,"Good progress, but needs improvement in homework."
+S074,Agriculture,2023 Term 1,A,Needs to be more disciplined.
+S075,Shona,2023 Term 1,B,Struggling with the coursework.
+S076,Geography,2023 Term 1,A,Excellent in class participation.
+S077,Shona,2023 Term 1,A,Making steady progress.
+S078,Geography,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S079,Agriculture,2023 Term 1,B,Struggling with the coursework.
+S080,Geography,2023 Term 1,A,Struggling with the coursework.
+S081,Geography,2023 Term 1,A,Excellent in class participation.
+S082,English,2023 Term 1,A,Needs to be more disciplined.
+S083,English,2023 Term 1,E,Making steady progress.
+S084,Agriculture,2023 Term 1,B,Excellent in class participation.
+S085,Geography,2023 Term 1,C,Struggling with the coursework.
+S086,Science,2023 Term 1,C,Excellent in class participation.
+S087,Mathematics,2023 Term 1,B,Needs to be more disciplined.
+S088,Science,2023 Term 1,C,Needs to be more disciplined.
+S089,Geography,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S090,Commerce,2023 Term 1,D,Needs to be more disciplined.
+S091,Geography,2023 Term 1,C,Excellent in class participation.
+S092,Shona,2023 Term 1,E,Making steady progress.
+S093,English,2023 Term 1,A,Making steady progress.
+S094,Science,2023 Term 1,A,Struggling with the coursework.
+S095,Agriculture,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S096,Shona,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S097,Geography,2023 Term 1,E,Struggling with the coursework.
+S098,History,2023 Term 1,B,Making steady progress.
+S099,Geography,2023 Term 1,D,Needs to be more disciplined.
+S100,Geography,2023 Term 1,C,Needs to be more disciplined.
+S101,Science,2023 Term 1,D,Needs to be more disciplined.
+S102,Science,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S103,Agriculture,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S104,Shona,2023 Term 1,D,Needs to be more disciplined.
+S105,Geography,2023 Term 1,A,Needs to be more disciplined.
+S106,English,2023 Term 1,B,Making steady progress.
+S107,Geography,2023 Term 1,E,Excellent in class participation.
+S108,Geography,2023 Term 1,D,Needs to be more disciplined.
+S109,Mathematics,2023 Term 1,A,Struggling with the coursework.
+S110,Agriculture,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S111,Agriculture,2023 Term 1,C,"Good progress, but needs improvement in homework."
+S112,Mathematics,2023 Term 1,A,Making steady progress.
+S113,History,2023 Term 1,E,Excellent in class participation.
+S114,Mathematics,2023 Term 1,A,Needs to be more disciplined.
+S115,Commerce,2023 Term 1,A,Struggling with the coursework.
+S116,Geography,2023 Term 1,D,Excellent in class participation.
+S117,Mathematics,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S118,Commerce,2023 Term 1,E,Excellent in class participation.
+S119,Commerce,2023 Term 1,E,Struggling with the coursework.
+S120,Agriculture,2023 Term 1,A,Making steady progress.
+S121,Mathematics,2023 Term 1,C,Excellent in class participation.
+S122,Geography,2023 Term 1,C,Struggling with the coursework.
+S123,History,2023 Term 1,E,Excellent in class participation.
+S124,English,2023 Term 1,A,Struggling with the coursework.
+S125,History,2023 Term 1,B,Struggling with the coursework.
+S126,Commerce,2023 Term 1,A,Excellent in class participation.
+S127,Commerce,2023 Term 1,A,Excellent in class participation.
+S128,Science,2023 Term 1,A,Excellent in class participation.
+S129,Mathematics,2023 Term 1,B,Excellent in class participation.
+S130,Geography,2023 Term 1,B,Struggling with the coursework.
+S131,Commerce,2023 Term 1,B,Needs to be more disciplined.
+S132,Science,2023 Term 1,E,Excellent in class participation.
+S133,Agriculture,2023 Term 1,E,Making steady progress.
+S134,Shona,2023 Term 1,A,Making steady progress.
+S135,History,2023 Term 1,E,Excellent in class participation.
+S136,History,2023 Term 1,C,Excellent in class participation.
+S137,English,2023 Term 1,D,Struggling with the coursework.
+S138,Shona,2023 Term 1,B,Excellent in class participation.
+S139,Shona,2023 Term 1,C,Making steady progress.
+S140,Agriculture,2023 Term 1,D,Struggling with the coursework.
+S141,Mathematics,2023 Term 1,A,Making steady progress.
+S142,Commerce,2023 Term 1,B,Struggling with the coursework.
+S143,Geography,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S144,Shona,2023 Term 1,A,Making steady progress.
+S145,History,2023 Term 1,C,Struggling with the coursework.
+S146,History,2023 Term 1,A,Struggling with the coursework.
+S147,History,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S148,Agriculture,2023 Term 1,E,Needs to be more disciplined.
+S149,Mathematics,2023 Term 1,B,Making steady progress.
+S150,Mathematics,2023 Term 1,B,Struggling with the coursework.
+S151,Geography,2023 Term 1,C,Making steady progress.
+S152,Mathematics,2023 Term 1,C,"Good progress, but needs improvement in homework."
+S153,History,2023 Term 1,B,"Good progress, but needs improvement in homework."
+S154,Agriculture,2023 Term 1,B,Making steady progress.
+S155,History,2023 Term 1,B,Making steady progress.
+S156,Agriculture,2023 Term 1,E,"Good progress, but needs improvement in homework."
+S157,Science,2023 Term 1,C,Excellent in class participation.
+S158,Science,2023 Term 1,C,"Good progress, but needs improvement in homework."
+S159,History,2023 Term 1,D,Struggling with the coursework.
+S160,Geography,2023 Term 1,D,Excellent in class participation.
+S161,Geography,2023 Term 1,B,"Good progress, but needs improvement in homework."
+S162,Geography,2023 Term 1,E,Struggling with the coursework.
+S163,Geography,2023 Term 1,E,"Good progress, but needs improvement in homework."
+S164,History,2023 Term 1,B,Needs to be more disciplined.
+S165,Commerce,2023 Term 1,C,Making steady progress.
+S166,Shona,2023 Term 1,C,Needs to be more disciplined.
+S167,English,2023 Term 1,D,Needs to be more disciplined.
+S168,Commerce,2023 Term 1,A,Needs to be more disciplined.
+S169,Science,2023 Term 1,A,Struggling with the coursework.
+S170,History,2023 Term 1,C,Needs to be more disciplined.
+S171,English,2023 Term 1,B,Needs to be more disciplined.
+S172,Shona,2023 Term 1,E,Struggling with the coursework.
+S173,Geography,2023 Term 1,D,Needs to be more disciplined.
+S174,Shona,2023 Term 1,A,Needs to be more disciplined.
+S175,Shona,2023 Term 1,D,Making steady progress.
+S176,History,2023 Term 1,C,Struggling with the coursework.
+S177,Mathematics,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S178,Mathematics,2023 Term 1,E,"Good progress, but needs improvement in homework."
+S179,Mathematics,2023 Term 1,B,Needs to be more disciplined.
+S180,Mathematics,2023 Term 1,E,Struggling with the coursework.
+S181,Commerce,2023 Term 1,A,Excellent in class participation.
+S182,English,2023 Term 1,B,"Good progress, but needs improvement in homework."
+S183,Mathematics,2023 Term 1,A,Making steady progress.
+S184,Geography,2023 Term 1,B,Excellent in class participation.
+S185,Geography,2023 Term 1,C,Making steady progress.
+S186,Science,2023 Term 1,D,Struggling with the coursework.
+S187,Agriculture,2023 Term 1,B,Excellent in class participation.
+S188,History,2023 Term 1,B,"Good progress, but needs improvement in homework."
+S189,Geography,2023 Term 1,B,Struggling with the coursework.
+S190,Geography,2023 Term 1,E,Making steady progress.
+S191,Mathematics,2023 Term 1,D,Needs to be more disciplined.
+S192,Science,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S193,Agriculture,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S194,Commerce,2023 Term 1,A,Making steady progress.
+S195,Science,2023 Term 1,D,Struggling with the coursework.
+S196,Agriculture,2023 Term 1,D,Excellent in class participation.
+S197,Geography,2023 Term 1,D,Making steady progress.
+S198,Mathematics,2023 Term 1,E,Making steady progress.
+S199,Geography,2023 Term 1,A,Needs to be more disciplined.
+S200,Agriculture,2023 Term 1,E,Making steady progress.
+S201,Science,2023 Term 1,B,Struggling with the coursework.
+S202,Commerce,2023 Term 1,D,Excellent in class participation.
+S203,English,2023 Term 1,A,Struggling with the coursework.
+S204,History,2023 Term 1,E,Making steady progress.
+S205,History,2023 Term 1,C,Needs to be more disciplined.
+S206,Agriculture,2023 Term 1,D,Needs to be more disciplined.
+S207,History,2023 Term 1,B,Excellent in class participation.
+S208,Commerce,2023 Term 1,C,Making steady progress.
+S209,Science,2023 Term 1,D,Struggling with the coursework.
+S210,Science,2023 Term 1,B,Struggling with the coursework.
+S211,Commerce,2023 Term 1,A,Needs to be more disciplined.
+S212,History,2023 Term 1,E,Struggling with the coursework.
+S213,Commerce,2023 Term 1,C,Excellent in class participation.
+S214,Mathematics,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S215,Science,2023 Term 1,D,Needs to be more disciplined.
+S216,History,2023 Term 1,B,Making steady progress.
+S217,Commerce,2023 Term 1,A,Excellent in class participation.
+S218,Mathematics,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S219,Mathematics,2023 Term 1,D,Excellent in class participation.
+S220,Geography,2023 Term 1,D,Struggling with the coursework.
+S221,Shona,2023 Term 1,D,Needs to be more disciplined.
+S222,Commerce,2023 Term 1,B,Excellent in class participation.
+S223,History,2023 Term 1,C,Excellent in class participation.
+S224,Science,2023 Term 1,D,Excellent in class participation.
+S225,Geography,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S226,History,2023 Term 1,B,Needs to be more disciplined.
+S227,Shona,2023 Term 1,B,Excellent in class participation.
+S228,Geography,2023 Term 1,D,Needs to be more disciplined.
+S229,Geography,2023 Term 1,B,Making steady progress.
+S230,Commerce,2023 Term 1,E,Making steady progress.
+S231,English,2023 Term 1,C,Making steady progress.
+S232,Agriculture,2023 Term 1,A,Excellent in class participation.
+S233,History,2023 Term 1,A,Struggling with the coursework.
+S234,Geography,2023 Term 1,D,Making steady progress.
+S235,Shona,2023 Term 1,C,Struggling with the coursework.
+S236,Geography,2023 Term 1,C,Making steady progress.
+S237,History,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S238,Agriculture,2023 Term 1,E,Struggling with the coursework.
+S239,English,2023 Term 1,D,Excellent in class participation.
+S240,Geography,2023 Term 1,D,Needs to be more disciplined.
+S241,Shona,2023 Term 1,E,Needs to be more disciplined.
+S242,Geography,2023 Term 1,B,Needs to be more disciplined.
+S243,Agriculture,2023 Term 1,C,Struggling with the coursework.
+S244,English,2023 Term 1,D,Struggling with the coursework.
+S245,Agriculture,2023 Term 1,E,"Good progress, but needs improvement in homework."
+S246,Shona,2023 Term 1,A,Struggling with the coursework.
+S247,Shona,2023 Term 1,C,Making steady progress.
+S248,History,2023 Term 1,B,Excellent in class participation.
+S249,Shona,2023 Term 1,A,Making steady progress.
+S250,Agriculture,2023 Term 1,B,"Good progress, but needs improvement in homework."
+S251,English,2023 Term 1,D,Struggling with the coursework.
+S252,Shona,2023 Term 1,E,Needs to be more disciplined.
+S253,Science,2023 Term 1,D,Making steady progress.
+S254,Geography,2023 Term 1,A,Struggling with the coursework.
+S255,Commerce,2023 Term 1,A,Excellent in class participation.
+S256,English,2023 Term 1,A,Excellent in class participation.
+S257,History,2023 Term 1,E,Needs to be more disciplined.
+S258,Agriculture,2023 Term 1,D,Excellent in class participation.
+S259,English,2023 Term 1,B,Needs to be more disciplined.
+S260,Agriculture,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S261,English,2023 Term 1,E,Needs to be more disciplined.
+S262,Science,2023 Term 1,E,Struggling with the coursework.
+S263,Science,2023 Term 1,B,Needs to be more disciplined.
+S264,History,2023 Term 1,E,Struggling with the coursework.
+S265,Commerce,2023 Term 1,A,Excellent in class participation.
+S266,Science,2023 Term 1,E,Excellent in class participation.
+S267,Geography,2023 Term 1,C,"Good progress, but needs improvement in homework."
+S268,Geography,2023 Term 1,B,Excellent in class participation.
+S269,Commerce,2023 Term 1,C,Excellent in class participation.
+S270,Shona,2023 Term 1,D,Making steady progress.
+S271,Shona,2023 Term 1,C,Needs to be more disciplined.
+S272,Geography,2023 Term 1,A,"Good progress, but needs improvement in homework."
+S273,Commerce,2023 Term 1,D,Excellent in class participation.
+S274,History,2023 Term 1,E,Needs to be more disciplined.
+S275,History,2023 Term 1,E,"Good progress, but needs improvement in homework."
+S276,Mathematics,2023 Term 1,A,Needs to be more disciplined.
+S277,Agriculture,2023 Term 1,A,Needs to be more disciplined.
+S278,English,2023 Term 1,E,Needs to be more disciplined.
+S279,Mathematics,2023 Term 1,B,Needs to be more disciplined.
+S280,Agriculture,2023 Term 1,B,"Good progress, but needs improvement in homework."
+S281,Science,2023 Term 1,D,"Good progress, but needs improvement in homework."
+S282,Commerce,2023 Term 1,D,Making steady progress.
+S283,Agriculture,2023 Term 1,C,Making steady progress.
+S284,Shona,2023 Term 1,E,Needs to be more disciplined.
+S285,English,2023 Term 1,D,Excellent in class participation.
+S286,Commerce,2023 Term 1,A,Struggling with the coursework.
+S287,History,2023 Term 1,A,Excellent in class participation.
+S288,Science,2023 Term 1,E,Making steady progress.
+S289,Science,2023 Term 1,A,Struggling with the coursework.
+S290,Shona,2023 Term 1,C,Struggling with the coursework.
+S291,Science,2023 Term 1,B,Making steady progress.
+S292,Commerce,2023 Term 1,C,Excellent in class participation.
+S293,Shona,2023 Term 1,B,Needs to be more disciplined.
+S294,Agriculture,2023 Term 1,A,Making steady progress.
+S295,Geography,2023 Term 1,B,Excellent in class participation.
+S296,Agriculture,2023 Term 1,B,Making steady progress.
+S297,English,2023 Term 1,A,Making steady progress.
+S298,English,2023 Term 1,B,Needs to be more disciplined.
+S299,Science,2023 Term 1,D,Excellent in class participation.
+S300,Mathematics,2023 Term 1,B,Needs to be more disciplined.
