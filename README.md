@@ -57,6 +57,8 @@ From performance_records.csv:
 | S003 | Agriculture | 2023 Term 1 | B | Making steady progress. |
 | S004 | Commerce | 2023 Term 1 | C | Excellent in class participation. |
 | S005 | Shona | 2023 Term 1 | D | Needs to be more disciplined. |
+
+
 Resource Management
  
 •	Efficient Resource Allocation: The system enabled a streamlined allocation of resources such as library books, digital content, and classroom materials, leading to a 20% decrease in resource wastage.
